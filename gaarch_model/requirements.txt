@@ -1,0 +1,6 @@
+arch
+tqdm
+pandas
+numpy
+matplotlib
+pandas_ta
